@@ -2,19 +2,45 @@
 
 ⚠️ **WORK IN PROGRESS!** ⚠️
 
-Welcome to my Data Science with Python course!
-
-Please, if you find any typos or mistakes, [open a new issue](https://help.github.com/articles/creating-an-issue/). Or even better, fork the repo and [submit a pull request](https://help.github.com/articles/creating-a-pull-request-from-a-fork/). I am happy to share my work and I am even happier if it can be useful.
+Welcome to my Data Science with Python course! I am happy to share my work and I am even happier if it can be useful.
 
 
 
 ## Content
 
-1. [Pandas Introduction](https://matteocourthoud.github.io/course/data-science/01_pandas/)
-2. TBD
+1. [Data Exploration](https://matteocourthoud.github.io/course/data-science/01_data_exploration/)
+   - Import, export data
+   - Descriprives and summary statistics
+   - Pivot tables and aggregation
+2. [Data Types](https://matteocourthoud.github.io/course/data-science/02_data_types/)
+   - Numerical data
+   - String data
+   - Time data
+   - Missing data
+3. [Data Wrangling](https://matteocourthoud.github.io/course/data-science/03_data_wrangling/)
+   - Rows: sorting, indexing, ....
+   - Columns: renaming, ordering, ....
+   - Collapse and aggregate
+   - Reshape
+   - Concatenate and merge
+4. [Plotting](https://matteocourthoud.github.io/course/data-science/04_plotting/)
+   - Distributions
+   - Time Series
+   - Correlations
+   - Regression
+   - Geographical data
+5. [Machine Learning Pipeline](https://matteocourthoud.github.io/course/data-science/05_ml_pipeline/)
+   - Data exploration
+   - Encoding and normalization
+   - Missing values
+   - Weighting
+   - Prediction
+   - Cross-validation
+6. TBD
+   - What is missing? Let me know!
 
 
 
 ## Contacts
 
-If you have any issue or suggestion for the course, please feel free to [pull edits](https://github.com/matteocourthoud/Machine-Learning-for-Economic-Analysis-2020/pulls) or contact me [via mail](mailto:matteo.courthoud@uzh.ch). All feedback is greatly appreciated!
+Please, if you find any typos or mistakes, [open a new issue](https://help.github.com/articles/creating-an-issue/). Or even better, fork the repo and [submit a pull request](https://help.github.com/articles/creating-a-pull-request-from-a-fork/). All feedback is greatly appreciated!
