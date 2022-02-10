@@ -36,7 +36,12 @@ Welcome to my Data Science with Python course! I am happy to share my work and I
    - Weighting
    - Prediction
    - Cross-validation
-6. TBD
+6. [Web Scraping](https://matteocourthoud.github.io/course/data-science/06_web_scraping/)
+   - Pandas
+   - APIs
+   - Static Webscraping
+   - Dynamic Webscraping
+7. TBD
    - What is missing? Let me know!
 
 
