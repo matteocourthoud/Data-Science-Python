@@ -11,6 +11,12 @@ outdir="Dropbox/Code/website/content/course/data-science"
 # List files
 cd ${indir}/notebooks/
 FILES=$(ls *.ipynb)
+cd ../img/
+rm *
+cd
+cd ${outdir}/img
+rm -d img
+rm *
 cd
 
 # Convert slides
