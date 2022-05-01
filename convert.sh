@@ -5,8 +5,8 @@
 printf "\nMaking slides...\n\n"
 
 # Save directories
-indir="Dropbox/Projects/Data-Science-Python"
-outdir="Dropbox/Code/website/content/course/data-science"
+indir="Dropbox/Courses/Data-Science-Python"
+outdir="Dropbox/Website/content/course/data-science"
 
 # List files
 cd ${indir}/notebooks/
